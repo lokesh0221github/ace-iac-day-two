@@ -7,7 +7,7 @@
 app-fqdn-rules.tf @lokeshsecops0222
 
 # In a true org structure, these files should have the Network Operators account as the owner:
-main.tf @lokesh0221github
+main.tf @<lokesh0221github>
 provider.tf @lokesh0221github
 variables.tf @lokesh0221github
 versions.tf @lokesh0221github
